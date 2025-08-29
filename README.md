@@ -79,7 +79,7 @@ Interactive web app with form inputs:
 * User-friendly form design
 * Real-time prediction output
 
-![Score Prediction UI](static\images\image.png)
+![Score Prediction UI](\static\images\image.png)
 
 ---
 
